@@ -1,7 +1,7 @@
 {
-  "name": "contuct-manager",
+  "name": "parcel-recat-tailwind-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "parcel-recat-tailwind-setup",
   "main": "index.js",
   "scripts": {
     "dev": "npx parcel -p 1234 watch index.html",
